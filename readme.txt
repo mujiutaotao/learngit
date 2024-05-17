@@ -4,3 +4,4 @@ GIT IS MY SOFTWARE.
 GIT add a line.
 git tracks changes.
 this is the dev branch.
+create a new branch named feature1.
